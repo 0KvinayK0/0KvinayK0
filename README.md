@@ -12,7 +12,7 @@
     <a href="https://leetcode.com/0KvinayK0/">
     <img src="https://img.shields.io/badge/Leetcode-brown" alt="Leetcode">
  </a>   
-  <a href="https://monkeytype.com/profile/wakata">
+  <a href="https://monkeytype.com/profile/0KvinayK0">
     <img src="https://img.shields.io/badge/Monkey-Type-lightgrey" alt="MonkeyType">
  </a>     
 </p>
