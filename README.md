@@ -9,6 +9,9 @@
     <a href="https://www.linkedin.com/in/kkvinay/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn">
   </a >
+    <a href="https://leetcode.com/0KvinayK0/">
+    <img src="https://img.shields.io/badge/Leetcode-brown" alt="Leetcode">
+ </a>   
   <a href="https://monkeytype.com/profile/wakata">
     <img src="https://img.shields.io/badge/Monkey-Type-lightgrey" alt="MonkeyType">
  </a>     
