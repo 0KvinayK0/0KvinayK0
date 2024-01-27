@@ -4,7 +4,7 @@
     <b>Welcome to my profile!</b><br><br>
     <i>
         <br>
-       I am currently learning (all) Devops and building fun and exciting projects in various languages.<br>
+       I am currently learning offensive security and building fun and exciting projects in various languages.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/kkvinay/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn">
